@@ -16,7 +16,7 @@
 		"AbilityCooldown"				"18.0 14.0 10.0 6.0"
 		"AbilityManaCost"				"150 125 100 75"
 
-		"AbilityCastRange"				"450"
+		"AbilityCastRange"				"600"
 		"AbilityCastPoint"				"0.35"
 
 		"VectorTarget"					"1"
@@ -41,7 +41,7 @@
 			"04"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"portal_duration"		"20"
+				"portal_duration"		"90"
 			}
 		}
 	}
@@ -61,11 +61,11 @@
 		"AbilityUnitTargetTeam"			"DOTA_UNIT_TARGET_TEAM_ENEMY"
 		"AbilityUnitTargetType"			"DOTA_UNIT_TARGET_HERO | DOTA_UNIT_TARGET_BASIC"
 
-		"AbilityCooldown"				"1.75"
-		"AbilityManaCost"				"25 35 45 55"
+		"AbilityCooldown"				"0 0 0 0"
+		"AbilityManaCost"				"55 45 35 25"
 
 		"AbilityCastRange"				"1200"
-		"AbilityCastPoint"				"0.3"
+		"AbilityCastPoint"				"0.2"
 
 		"AbilitySpecial"
 		{
